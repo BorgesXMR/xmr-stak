@@ -1,7 +1,7 @@
 
 # Para Instalar
 
-> wget https://raw.githubusercontent.com/BorgesXMR/xmr-stak/master/xmr-stak_setup.sh && sh xmr-stak_setup.sh
+wget https://raw.githubusercontent.com/BorgesXMR/xmr-stak/master/xmr-stak_setup.sh && sh xmr-stak_setup.sh
 
 # Abra Screen
 
