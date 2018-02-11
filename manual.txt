@@ -3,6 +3,10 @@
 
 > wget https://raw.githubusercontent.com/BorgesXMR/xmr-stak/master/xmr-stak_setup.sh && sh xmr-stak_setup.sh
 
+# Abra Screen
+
+screen
+
 # Para Iniciar o Script
 
 ./xmrstak
