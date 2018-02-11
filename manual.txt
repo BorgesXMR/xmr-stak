@@ -1,1 +1,11 @@
 
+# Para Instalar
+
+> wget https://raw.githubusercontent.com/BorgesXMR/xmr-stak/master/xmr-stak_setup.sh && sh xmr-stak_setup.sh
+
+# Para Iniciar o Script
+
+./xmrstak
+
+# Configurações do Script 
+
