@@ -7,5 +7,11 @@
 
 ./xmrstak
 
-# Configurações do Script 
+# Configurações de Pool Script 
+
+pool.monero.hashvault.pro:5555
+
+# Minha Carteira
+
+495VGw58sT32DXBHHVeQAC8bP5XKBLuFnLtJ4CEb6HXQQqYKAgPk8ypiV31EqWxwEz7Tuq8UTz3AVLbrDYqmmcSe6gVfwYS 
 
