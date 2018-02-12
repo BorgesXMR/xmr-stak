@@ -5,15 +5,11 @@ wget https://raw.githubusercontent.com/BorgesXMR/xmr-stak/master/xmr-stak_setup.
 
 # Abra Screen
 
-screen
-
-# Para Iniciar o Script
-
-./xmrstak
+screen ./xmrstak
 
 # Configurações de Pool Script 
 
-pool.supportxmr.com:5555
+pool.monero.hashvault.pro:5555
 
 # Minha Carteira
 
